@@ -44,4 +44,5 @@ Viss ir baigi forsi
 - [ ] Contact the media
 
 ~~The world is flat.~~
-![alt photo](C:\Users\RinaldsA\Desktop\DP1-4\IntroInGit-\image1.jpg)
+
+![alt photo](image1.jpg)
