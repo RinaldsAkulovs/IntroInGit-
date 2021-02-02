@@ -32,3 +32,5 @@ Viss ir baigi forsi
 1. Desa
 2. Sviests
 3. Maize
+
+`java * java`
