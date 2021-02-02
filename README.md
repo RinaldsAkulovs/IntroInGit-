@@ -38,3 +38,7 @@ Viss ir baigi forsi
 --- my name is bobiks
 
 [title](https://www.example.com)
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
