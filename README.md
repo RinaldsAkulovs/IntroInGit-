@@ -12,7 +12,9 @@ git add .                           # Sagatavot repozitoriju kommitam
 
 git commit -m "Paveiktais darbs"    # Versijas izveide
 
-git config user.name "RinaldsAkulovs"
-git config user.email
+git push origin main                # augsupieladet repozitariju
+
+git config user.name "Rinalds Akulovs"
+git config user.email "rinsldsa@gmail.com"
 
 ```
