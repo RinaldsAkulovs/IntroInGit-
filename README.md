@@ -46,3 +46,11 @@ Viss ir baigi forsi
 ~~The world is flat.~~
 
 ![alt photo](image1.jpg)
+
+```
+{
+  "firstName": "Rinalds",
+  "lastName": "Akulovs",
+  "age": 16
+}
+```
