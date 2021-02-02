@@ -18,3 +18,6 @@ git config user.name "Rinalds Akulovs"
 git config user.email "rinsldsa@gmail.com"
 
 ```
+
+# Status 
+Viss ir baigi forsi
